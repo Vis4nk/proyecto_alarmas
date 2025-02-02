@@ -24,6 +24,7 @@
             android:textSize="70sp"
             android:textStyle="bold"
             android:typeface="normal"
+            android:format12Hour="hh:mm:ss a"
             app:layout_constraintBottom_toBottomOf="parent"
             app:layout_constraintEnd_toEndOf="parent"
             app:layout_constraintHorizontal_bias="0.492"
